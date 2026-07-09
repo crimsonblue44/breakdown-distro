@@ -1,0 +1,702 @@
+[
+  {
+    "sku": "B82",
+    "name": "Bubblegum Gelato",
+    "price": 1650,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/bubblegum-gelato.jpg"
+  },
+  {
+    "sku": "B84",
+    "name": "Dolce Gelato",
+    "price": 1650,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/dolce-gelato.jpg"
+  },
+  {
+    "sku": "B80",
+    "name": "Candy Gelato 33",
+    "price": 1625,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/candy-gelato-33.jpg"
+  },
+  {
+    "sku": "B81",
+    "name": "Exotic Candy LCG",
+    "price": 1625,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/exotic-candy-lcg.jpg"
+  },
+  {
+    "sku": "B79",
+    "name": "Pink Zlushie",
+    "price": 1625,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/pink-zlushie.jpg"
+  },
+  {
+    "sku": "B62",
+    "name": "Blockberry",
+    "price": 1525,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/blockberry.jpg"
+  },
+  {
+    "sku": "B65",
+    "name": "Extreme Cream",
+    "price": 1500,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/extreme-cream.jpg"
+  },
+  {
+    "sku": "B67",
+    "name": "Monster Cookies",
+    "price": 1500,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/monster-cookies.jpg"
+  },
+  {
+    "sku": "V05",
+    "name": "Ace Ultra 2G Vape (Red)",
+    "price": 1400,
+    "cat": "vape",
+    "isNew": false,
+    "isVape": true,
+    "isPromo": false,
+    "image": "images/vape-ace-red.jpg"
+  },
+  {
+    "sku": "V04",
+    "name": "Ace Ultra 2G Vape (Gold)",
+    "price": 1400,
+    "cat": "vape",
+    "isNew": false,
+    "isVape": true,
+    "isPromo": false,
+    "image": "images/vape-ace-gold.jpg"
+  },
+  {
+    "sku": "B56",
+    "name": "Acqua Di Rose",
+    "price": 1400,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/acqua-di-rose.jpg"
+  },
+  {
+    "sku": "B59",
+    "name": "Garlicane",
+    "price": 1400,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/garlicane.jpg"
+  },
+  {
+    "sku": "B71",
+    "name": "Cotton Candy",
+    "price": 1400,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/cotton-candy.jpg"
+  },
+  {
+    "sku": "B69",
+    "name": "Purple Cream",
+    "price": 1400,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/purple-cream.jpg"
+  },
+  {
+    "sku": "B57",
+    "name": "Gumbo",
+    "price": 1375,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/gumbo.jpg"
+  },
+  {
+    "sku": "B58",
+    "name": "Candy Runtz",
+    "price": 1375,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/candy-runtz.jpg"
+  },
+  {
+    "sku": "V18",
+    "name": "Boutiq Switch 2G Vape",
+    "price": 1300,
+    "cat": "vape",
+    "isNew": false,
+    "isVape": true,
+    "isPromo": false,
+    "image": "images/vape-boutiq.jpg"
+  },
+  {
+    "sku": "V02",
+    "name": "Clean Carts 2G Vape",
+    "price": 1300,
+    "cat": "vape",
+    "isNew": false,
+    "isVape": true,
+    "isPromo": false,
+    "image": "images/vape-cleancarts.jpg"
+  },
+  {
+    "sku": "V08",
+    "name": "Cookies X Freak 2G Vape",
+    "price": 1300,
+    "cat": "vape",
+    "isNew": false,
+    "isVape": true,
+    "isPromo": false,
+    "image": "images/vape-cookies-freak.jpg"
+  },
+  {
+    "sku": "V15",
+    "name": "Choices Lab 2G Disposable",
+    "price": 1300,
+    "cat": "vape",
+    "isNew": false,
+    "isVape": true,
+    "isPromo": false,
+    "image": "images/vape-choices.jpg"
+  },
+  {
+    "sku": "V16",
+    "name": "Hitz Gen7 2G Disposable",
+    "price": 1300,
+    "cat": "vape",
+    "isNew": false,
+    "isVape": true,
+    "isPromo": false,
+    "image": "images/vape-hitz.jpg"
+  },
+  {
+    "sku": "B50",
+    "name": "New Gelato 41",
+    "price": 1300,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/new-gelato-41.jpg"
+  },
+  {
+    "sku": "B52",
+    "name": "Purple Runtz",
+    "price": 1300,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/purple-runtz.jpg"
+  },
+  {
+    "sku": "B40",
+    "name": "Candy LCG",
+    "price": 1250,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/candy-lcg.jpg"
+  },
+  {
+    "sku": "B41",
+    "name": "Sugar Blossom",
+    "price": 1250,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/sugar-blossom.jpg"
+  },
+  {
+    "sku": "B42",
+    "name": "Candy Pop",
+    "price": 1250,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/candy-pop.jpg"
+  },
+  {
+    "sku": "B61",
+    "name": "Candy Heart",
+    "price": 1200,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/candy-heart.jpg"
+  },
+  {
+    "sku": "B63",
+    "name": "Painter LCG",
+    "price": 1200,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/painter-lcg.jpg"
+  },
+  {
+    "sku": "B48",
+    "name": "Glitter Pop",
+    "price": 1200,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/glitter-pop.jpg"
+  },
+  {
+    "sku": "B51",
+    "name": "Panna Cotta",
+    "price": 1200,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/panna-cotta.jpg"
+  },
+  {
+    "sku": "B55",
+    "name": "Grape Gas",
+    "price": 1200,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/grape-gas.jpg"
+  },
+  {
+    "sku": "B38",
+    "name": "Pinnacle",
+    "price": 1200,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/pinnacle.jpg"
+  },
+  {
+    "sku": "V07",
+    "name": "Muha Meds 2G Disposable",
+    "price": 1200,
+    "cat": "vape",
+    "isNew": false,
+    "isVape": true,
+    "isPromo": false,
+    "image": "images/vape-muha.jpg"
+  },
+  {
+    "sku": "P08",
+    "name": "Kaws Moonrocks 1oz",
+    "price": 1200,
+    "cat": "moonrock",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/moonrock-kaws.jpg"
+  },
+  {
+    "sku": "B36",
+    "name": "Cheetah Piss",
+    "price": 1150,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/cheetah-piss.jpg"
+  },
+  {
+    "sku": "B64",
+    "name": "Painter Marker",
+    "price": 1150,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/painter-marker.jpg"
+  },
+  {
+    "sku": "P07",
+    "name": "Persy BIG Snowcaps Zaza",
+    "price": 1150,
+    "cat": "moonrock",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/moonrock-persy.jpg"
+  },
+  {
+    "sku": "B60",
+    "name": "Pinyati",
+    "price": 1100,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/pinyati.jpg"
+  },
+  {
+    "sku": "B43",
+    "name": "Gelato 47",
+    "price": 1100,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/gelato-47.jpg"
+  },
+  {
+    "sku": "P01",
+    "name": "Weekend Promo",
+    "price": 1000,
+    "cat": "promo",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": true,
+    "image": "images/weekend-promo.jpg"
+  },
+  {
+    "sku": "P02",
+    "name": "April Promo",
+    "price": 1000,
+    "cat": "promo",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": true,
+    "image": "images/april-promo.jpg"
+  },
+  {
+    "sku": "D06",
+    "name": "Donut Live Resin Sugar",
+    "price": 1000,
+    "cat": "concentrate",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/sugar-donut.jpg"
+  },
+  {
+    "sku": "D08",
+    "name": "FRYD Live Resin Sugar",
+    "price": 1000,
+    "cat": "concentrate",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/sugar-fryd.jpg"
+  },
+  {
+    "sku": "D07",
+    "name": "Muha Meds Live Resin Sugar",
+    "price": 1000,
+    "cat": "concentrate",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/sugar-muha.jpg"
+  },
+  {
+    "sku": "D04",
+    "name": "Packman Live Resin Sugar",
+    "price": 1000,
+    "cat": "concentrate",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/sugar-packman.jpg"
+  },
+  {
+    "sku": "D01",
+    "name": "Whole Melt Live Resin Sugar",
+    "price": 1000,
+    "cat": "concentrate",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/sugar-wholemelt.jpg"
+  },
+  {
+    "sku": "B37",
+    "name": "Candy LCG",
+    "price": 900,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/candy-lcg-2.jpg"
+  },
+  {
+    "sku": "B26",
+    "name": "Black ICE Cake",
+    "price": 875,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/black-ice-cake.jpg"
+  },
+  {
+    "sku": "B29",
+    "name": "Mochi",
+    "price": 850,
+    "cat": "all",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/mochi.jpg"
+  },
+  {
+    "sku": "V09",
+    "name": "BackPackBoyZ 2G Disposable",
+    "price": 700,
+    "cat": "vape",
+    "isNew": false,
+    "isVape": true,
+    "isPromo": false,
+    "image": "images/vape-backpackboyz.jpg"
+  },
+  {
+    "sku": "V11",
+    "name": "Blinkers 2G + Hash Hole",
+    "price": 700,
+    "cat": "vape",
+    "isNew": false,
+    "isVape": true,
+    "isPromo": false,
+    "image": "images/vape-blinkers.jpg"
+  },
+  {
+    "sku": "V19",
+    "name": "Cali Clear V5 2G Disposable",
+    "price": 700,
+    "cat": "vape",
+    "isNew": false,
+    "isVape": true,
+    "isPromo": false,
+    "image": "images/vape-caliclear.jpg"
+  },
+  {
+    "sku": "V12",
+    "name": "Dabwoods All-IN-One 2G Vape",
+    "price": 700,
+    "cat": "vape",
+    "isNew": false,
+    "isVape": true,
+    "isPromo": false,
+    "image": "images/vape-dabwoods.jpg"
+  },
+  {
+    "sku": "V06",
+    "name": "Dabwoods x Runtz 1G Dispo",
+    "price": 700,
+    "cat": "vape",
+    "isNew": false,
+    "isVape": true,
+    "isPromo": false,
+    "image": "images/vape-dabwoods-runtz.jpg"
+  },
+  {
+    "sku": "V20",
+    "name": "Fryd Extracts 2G Dispo",
+    "price": 700,
+    "cat": "vape",
+    "isNew": false,
+    "isVape": true,
+    "isPromo": false,
+    "image": "images/vape-fryd.jpg"
+  },
+  {
+    "sku": "V10",
+    "name": "Fusion x Whole Melt 2G Vape",
+    "price": 700,
+    "cat": "vape",
+    "isNew": false,
+    "isVape": true,
+    "isPromo": false,
+    "image": "images/vape-wholemelt.jpg"
+  },
+  {
+    "sku": "V01",
+    "name": "Luigi 2G Dispo + Pre Roll",
+    "price": 700,
+    "cat": "vape",
+    "isNew": false,
+    "isVape": true,
+    "isPromo": false,
+    "image": "images/vape-luigi.jpg"
+  },
+  {
+    "sku": "V03",
+    "name": "Muha x Cookies 2G Dispo",
+    "price": 700,
+    "cat": "vape",
+    "isNew": false,
+    "isVape": true,
+    "isPromo": false,
+    "image": "images/vape-muha-cookies.jpg"
+  },
+  {
+    "sku": "V13",
+    "name": "Packman V6 2G Disposable",
+    "price": 700,
+    "cat": "vape",
+    "isNew": false,
+    "isVape": true,
+    "isPromo": false,
+    "image": "images/vape-packman.jpg"
+  },
+  {
+    "sku": "V14",
+    "name": "Whole Melt Extracts V6 2G",
+    "price": 700,
+    "cat": "vape",
+    "isNew": false,
+    "isVape": true,
+    "isPromo": false,
+    "image": "images/vape-wholemelt-v6.jpg"
+  },
+  {
+    "sku": "S06",
+    "name": "Ice Cream Gelato Smalls",
+    "price": 500,
+    "cat": "smalls",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/smalls-icg.jpg"
+  },
+  {
+    "sku": "D09",
+    "name": "Piff Premium Live Resin Sugar",
+    "price": 500,
+    "cat": "concentrate",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/sugar-piff.jpg"
+  },
+  {
+    "sku": "P05",
+    "name": "Baby Jesters Prerolls",
+    "price": 425,
+    "cat": "preroll",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/preroll-jesters.jpg"
+  },
+  {
+    "sku": "P14",
+    "name": "Packman Infused Preroll",
+    "price": 425,
+    "cat": "preroll",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/preroll-packman.jpg"
+  },
+  {
+    "sku": "P04",
+    "name": "Valley Hemp THC-A Preroll",
+    "price": 425,
+    "cat": "preroll",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/preroll-valley.jpg"
+  },
+  {
+    "sku": "B01",
+    "name": "Sourr Diesel",
+    "price": 400,
+    "cat": "new-arrival",
+    "isNew": true,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/sourr-diesel.jpg"
+  },
+  {
+    "sku": "P02",
+    "name": "Devour Sour Belts 3000mg",
+    "price": 375,
+    "cat": "edible",
+    "isNew": false,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/edible-devour.jpg"
+  },
+  {
+    "sku": "B68",
+    "name": "Wild Forest",
+    "price": 350,
+    "cat": "new-arrival",
+    "isNew": true,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/wild-forest.jpg"
+  },
+  {
+    "sku": "B02",
+    "name": "Dieselll",
+    "price": 350,
+    "cat": "new-arrival",
+    "isNew": true,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/dieselll.jpg"
+  },
+  {
+    "sku": "T06",
+    "name": "Purple Cakee Shake/w Micro",
+    "price": 350,
+    "cat": "new-arrival",
+    "isNew": true,
+    "isVape": false,
+    "isPromo": false,
+    "image": "images/purple-cakee-shake.jpg"
+  }
+    ]
